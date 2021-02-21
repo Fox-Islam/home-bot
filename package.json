@@ -1,0 +1,24 @@
+{
+  "name": "home-bot",
+  "version": "1.0.0",
+  "description": "A simple bot for our home server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fox-Islam/home-bot.git"
+  },
+  "author": "Fox Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fox-Islam/home-bot/issues"
+  },
+  "homepage": "https://github.com/Fox-Islam/home-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
